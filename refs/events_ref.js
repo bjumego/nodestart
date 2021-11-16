@@ -14,6 +14,6 @@ logger.on('message', data => {
 })
 
 
-logger.log('First')
-logger.log('Second')
-logger.log('Third')
+logger.log('Sergei')
+logger.log('Smirnov')
+logger.log('SPTVR19')
