@@ -1,6 +1,6 @@
 const user = {
-    name: 'Vasya',
-    age: 30
+    name: 'Sergei',
+    age: 18
 }
 
 // module.exports = user

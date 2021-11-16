@@ -34,4 +34,12 @@ fs.writeFile(
         )
     }
 )
+// fs.rename(
+// path.join(__dirname, 'notes', 'mynotes.txt'),
+// path.joing(__dirname, 'notes', 'mynotes.txt'),
+// err => {
+//     if (err) throw err
     
+//     console.log('Файл переименован')
+//     }
+//     )
